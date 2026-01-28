@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://XueyingGu.github.io/sitemap.xml
+Sitemap: https://gxy1925619177-ctrl.github.io/sitemap.xml
